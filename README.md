@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Henrisen/Henrisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im **Henri Sendelbach**.
 
-Here are some ideas to get you started:
+I am currently self employeed on TheHSI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love Computers, Software Development and Hardware.
+
+- 🔭 I’m currently working on [See](https://github.com/Henrisen/see)
+- 🌱 I’m currently learning Typescript
+<!--- - 👯 I’m looking to collaborate on ---> 
+- 🤔 I’m looking for help with Security Upgrades for [See](https://github.com/Henrisen/see)
+- 💬 Ask me about Anything
+- 📫 How to reach me: henri.sendelbach+gh@proton.me
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I use Arch btw
+
+##### Languages I know:
+- German (Mother Language)
+- English
+
+##### Programming Languages I know:
+- Python
+- Java
+- C#
+- Bash
+- Cmd
+- HTML
+- JS
+- CSS
