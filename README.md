@@ -27,3 +27,4 @@ I love Computers, Software Development and Hardware.
 - HTML
 - JS
 - CSS
+- X++
