@@ -8,7 +8,7 @@ I love Computers, Software Development and Hardware.
 
 - 🔭 I’m currently working on [See](https://github.com/Henrisen/see)
 - 🌱 I’m currently learning Typescript
-- 🤔 I’m looking for help with Security Upgrades for [See](https://github.com/Henrisen/see)
+- 🤔 I’m looking for help with improving the Windows Port for [See](https://github.com/Henrisen/see)
 - 💬 Ask me about Anything
 - 📫 How to reach me: henri.sendelbach+gh@proton.me
 - 😄 Pronouns: He/Him
