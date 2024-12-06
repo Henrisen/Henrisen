@@ -15,7 +15,7 @@ I love Computers, Software Development and Hardware.
 - ⚡ Fun fact: I use Arch btw
 
 ##### Languages I know:
-- German (Mother Language)
+- German (Native Language)
 - English
 
 ##### Programming Languages I know:
