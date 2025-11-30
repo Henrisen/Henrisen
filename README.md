@@ -31,3 +31,4 @@ I love Computers, Software Development and Hardware.
 - Make
 - Brainfuck
 - Lua
+- Rust
